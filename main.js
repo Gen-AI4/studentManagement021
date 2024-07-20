@@ -64,3 +64,4 @@ const promptUser = () => inquirer
     }
 });
 console.log("\t \t \t Welcome To Student Management!!");
+promptUser();

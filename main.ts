@@ -76,3 +76,4 @@ const promptUser = () =>
       }
     });
 console.log("\t \t \t Welcome To Student Management!!");
+promptUser();
